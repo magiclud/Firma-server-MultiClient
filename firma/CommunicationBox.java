@@ -1,4 +1,4 @@
-package testy;
+package firma;
 
 public class CommunicationBox {
     public static String orderForServer = "hey"; // wydzielone zadanie dla servera, // jeżeli null jest on bezczynny

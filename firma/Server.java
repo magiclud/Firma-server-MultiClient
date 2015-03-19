@@ -1,4 +1,4 @@
-package testy;
+package firma;
 
 import java.io.DataInputStream;
 import java.io.IOException;
@@ -18,6 +18,7 @@ public class Server {
 	// public static ServerTranslator translator;
 
 	public Server() {
+		wlaczSie();
 	}
 
 	public void wlaczSie() {
